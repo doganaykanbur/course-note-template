@@ -68,13 +68,13 @@ theme:
     
   palette:
     - scheme: default
-      primary: lime
+      primary: blue
       accent: lime
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
     - scheme: slate
-      primary: blue grey
+      primary: red
       accent: blue grey
       toggle:
         icon: material/toggle-switch-off-outline
