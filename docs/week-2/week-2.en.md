@@ -13,7 +13,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 header: "CE103 Algorithms and Programming I"
 footer: "![height:50px](http://erdogan.edu.tr/Images/Uploads/MyContents/L_379-20170718142719217230.jpg) RTEU CE103 Week-2"
 title: "CE103 Algorithms and Programming I"
-author: "Author: Asst. Prof. Dr. Uğur CORUH"
+author: "Author: Doğanay Kanbur"
 date:
 subtitle: "Development Environments and Algorithm Basics"
 geometry: "left=2.54cm,right=2.54cm,top=1.91cm,bottom=1.91cm"
@@ -35,7 +35,7 @@ disable-header-and-footer: false
 header-left:
 header-center:
 header-right:
-footer-left: "© Dr. Uğur CORUH"
+footer-left: "© Doğanay Kanbur
 footer-center: "License: WTFPL"
 footer-right:
 subparagraph: true
